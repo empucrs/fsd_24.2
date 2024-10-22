@@ -1,0 +1,105 @@
+m255
+K4
+z2
+!s12c _opt
+Z0 !s99 nomlopt
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 d/home/10083346/Disciplinas/fsd_24.2/Aula_1022/01_FAdder
+T_opt
+!s110 1729597289
+VQ026N>mQQY7bP[7Bo`ooP3
+04 2 3 work tb bhr 1
+=1-000ae431a4f1-67178f63-952a1-20de
+R0
+!s12f OEM100
+!s12b OEM100
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+tCvgOpt 0
+n@_opt
+OL;O;2023.4;77
+Efadder
+Z2 w1729597209
+Z3 DPx3 std 6 textio 0 22 LS[?81n5ZHWBI9JkBZTV<2
+Z4 DPx4 ieee 14 std_logic_1164 0 22 6<US`=mgl_dFdCEFF7J=m1
+!i122 1
+R1
+Z5 8FAdder.vhd
+Z6 FFAdder.vhd
+l0
+L4 1
+VniJDL0Aaf>LROjcXJSHX^2
+!s100 G1_E;`fo?TcZVA;2XGZaD0
+Z7 OL;C;2023.4;77
+32
+Z8 !s110 1729597224
+!i10b 1
+Z9 !s108 1729597224.000000
+Z10 !s90 -reportprogress|300|FAdder.vhd|TB.vhd|
+Z11 !s107 TB.vhd|FAdder.vhd|
+!i113 0
+Z12 tExplicit 1 CvgOpt 0
+Abhr
+R3
+R4
+Z13 DEx4 work 6 fadder 0 22 niJDL0Aaf>LROjcXJSHX^2
+!i122 1
+l12
+L11 13
+V3<CX`GX]OKPOUFzGETYWz3
+!s100 `5=nM6lTM?2l2>7?9ac_m2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+Etb
+Z14 w1729597084
+R3
+R4
+!i122 1
+R1
+Z15 8TB.vhd
+Z16 FTB.vhd
+l0
+L4 1
+VJc0VTTDlBCGF^f_4XHYgG3
+!s100 XH@cLBASThBRb5hzUNg@b2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+Abhr
+R13
+R3
+R4
+DEx4 work 2 tb 0 22 Jc0VTTDlBCGF^f_4XHYgG3
+!i122 1
+l10
+L7 19
+VPhCh8Bi5d:=H;LTiZgFOO2
+!s100 ?WObCQgDjSjO0196jm<h;1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
