@@ -1,0 +1,81 @@
+m255
+K4
+z2
+!s12c _opt1
+Z0 !s99 nomlopt
+!s12c _opt
+R0
+!s11e vcom 2023.4 2023.10, Oct  9 2023
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 d/home/10083346/Disciplinas/fsd_24.2/Aula_1015/01_tb
+T_opt
+!s110 1728992348
+V7CTo4;_:GS@MKF;cYS;d72
+Z2 04 2 3 work tb bhr 1
+=1-000ae431a4f1-670e5456-6d04a-e97
+R0
+Z3 !s12f OEM100
+Z4 !s12b OEM100
+Z5 !s124 OEM100
+o-quiet -auto_acc_if_foreign -work work
+Z6 tCvgOpt 0
+n@_opt
+Z7 OL;O;2023.4;77
+R1
+T_opt1
+!s110 1728992995
+V3bPi3[oCYRmEG:A@aHQcf0
+R2
+=1-000ae431a4f1-670e56e3-491b5-1062
+R0
+R3
+R4
+R5
+o-quiet -auto_acc_if_foreign -work work +acc
+R6
+n@_opt1
+R7
+Etb
+Z8 w1728992176
+Z9 DPx3 std 6 textio 0 22 LS[?81n5ZHWBI9JkBZTV<2
+Z10 DPx4 ieee 14 std_logic_1164 0 22 6<US`=mgl_dFdCEFF7J=m1
+!i122 1
+R1
+Z11 8tb.vhd
+Z12 Ftb.vhd
+l0
+L4 1
+VN<;>M4DW9<<FVg<RP3^2K0
+!s100 1D1fn3=fQe:C3P]Hm8RiP1
+Z13 OL;C;2023.4;77
+32
+Z14 !s110 1728992215
+!i10b 1
+Z15 !s108 1728992215.000000
+Z16 !s90 -reportprogress|300|tb.vhd|
+Z17 !s107 tb.vhd|
+!i113 0
+Z18 tExplicit 1 CvgOpt 0
+Abhr
+R9
+R10
+DEx4 work 2 tb 0 22 N<;>M4DW9<<FVg<RP3^2K0
+!i122 1
+l9
+L7 7
+VC[a>Lb2n0fR>G5cZ;21B]1
+!s100 `Ykk5WziC@<H^Wki9jlTm0
+R13
+32
+R14
+!i10b 1
+R15
+R16
+R17
+!i113 0
+R18

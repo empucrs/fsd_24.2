@@ -1,0 +1,105 @@
+m255
+K4
+z2
+!s12c _opt
+Z0 !s99 nomlopt
+!s11e vcom 2023.4 2023.10, Oct  9 2023
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 d/home/10083346/Disciplinas/fsd_24.2/Aula_1015/02_and
+T_opt
+!s110 1728995392
+Va4D3XSZ;`KSDSaoUmNS[63
+04 2 3 work tb bhr 1
+=1-000ae431a4f1-670e6040-6ba28-1286
+R0
+!s12f OEM100
+!s12b OEM100
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+tCvgOpt 0
+n@_opt
+OL;O;2023.4;77
+Eportae
+Z2 w1728995343
+Z3 DPx3 std 6 textio 0 22 LS[?81n5ZHWBI9JkBZTV<2
+Z4 DPx4 ieee 14 std_logic_1164 0 22 6<US`=mgl_dFdCEFF7J=m1
+!i122 0
+R1
+Z5 8portaE.vhd
+Z6 FportaE.vhd
+l0
+L4 1
+VP^]c<;^8dUakDPPMg7lMC1
+!s100 Rho4GCRE`EBYUlg]h139:3
+Z7 OL;C;2023.4;77
+32
+Z8 !s110 1728995358
+!i10b 1
+Z9 !s108 1728995358.000000
+Z10 !s90 -reportprogress|300|portaE.vhd|tb.vhd|
+Z11 !s107 tb.vhd|portaE.vhd|
+!i113 0
+Z12 tExplicit 1 CvgOpt 0
+Abhr
+R3
+R4
+Z13 DEx4 work 6 portae 0 22 P^]c<;^8dUakDPPMg7lMC1
+!i122 0
+l12
+L11 6
+V11f3C?>B5o?=4UcfEOlof0
+!s100 7bOzAi4RBh;=cfG<?1c<_2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+Etb
+Z14 w1728995249
+R3
+R4
+!i122 0
+R1
+Z15 8tb.vhd
+Z16 Ftb.vhd
+l0
+L4 1
+VN<;>M4DW9<<FVg<RP3^2K0
+!s100 1D1fn3=fQe:C3P]Hm8RiP1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+Abhr
+R13
+R3
+R4
+DEx4 work 2 tb 0 22 N<;>M4DW9<<FVg<RP3^2K0
+!i122 0
+l11
+L7 16
+VJ1RNW3lbkN3KL9S?H`T;A2
+!s100 Bl:[z=[1]RReY;L6_9A7f3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
