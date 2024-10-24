@@ -16,8 +16,8 @@ begin
   sgnA   <= "0000", x"2"   after 10ns, "1001" after 20ns;
   sgnB   <= x"0",   "0011" after 10ns, x"A" after 20ns;
 
-DUV: entity work.SumSub4Bit port map(
+DUV: entity work.Adder4bit port map(
 		A => sgnA, B    => sgnB, Cin => sgnCin,
-		S => sgnS, Cout => sgnCout, OvFlw);
+		S => sgnS, Cout => sgnCout);
 
 end architecture;
