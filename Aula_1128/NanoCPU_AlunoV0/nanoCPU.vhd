@@ -163,6 +163,8 @@ begin
 				when sEXE =>
 					if inst = iREAD then
 						state <= sREAD;
+					elsif inst = iWRITE then
+						state <= sWRITE;
 					elsif inst = iEND then
 						state <= sEND;
 					elsif inst = iJMP then
